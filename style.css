@@ -303,7 +303,7 @@ display:inline;
         z-index: 9999;
         border: none;
         cursor: pointer;
-        background: url('/images/icon-menu.svg') no-repeat ;
+        background: url('images/icon-menu.svg') no-repeat ;
     }
     .nav-items[data-visible="true"]
     {
@@ -311,6 +311,6 @@ display:inline;
     }
     .mobile-nav-toggle[aria-expanded="true"]
     {
-        background: url('/images/icon-close-menu.svg') no-repeat;
+        background: url('images/icon-close-menu.svg') no-repeat;
     }
 }
